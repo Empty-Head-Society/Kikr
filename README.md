@@ -14,8 +14,24 @@ If you can automate something, automate it.
 </a>
 </a>
 </h1>
+
+<h2>📚 Table Of Contents</h2>
+
+ - [What's Kikr?]()
+ - [Commands]()
+ - [Importing/Hosting]()
+   - [Importing Using Terminal]()
+    - [Importing Using Repl.it]()
+   - [Hosting Using Pingle]()
+   - [Hosting Using Kikr]()
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
+
+<h2>✨ Commands</h2>
+
+ - ❓**Info**: `help`, `ping`, `covid19` *+  2 more...*
+ - 🎢 **Fun**: `tweet`, `kanye`, `trigger`, `hug`, `kiss`, `kill` *+5 more...*
+ 
 <h2>📥 Importing/Hosting</h2>
 
 Please note that:
