@@ -1,2 +1,1 @@
-# kikr
-The Discord bot you never knew you needed.
+<img src="https://imgur.com/FztV3JP.png">
