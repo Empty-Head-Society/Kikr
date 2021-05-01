@@ -17,19 +17,20 @@ If you can automate something, automate it.
 
 <h2>📚 Table Of Contents</h2>
 
- - [What's Kikr?]()
- - [Commands]()
- - [Importing/Hosting]()
-   - [Importing Using Terminal]()
-    - [Importing Using Repl.it]()
-   - [Hosting Using Pingle]()
-   - [Hosting Using Kikr]()
+ - [What's Kikr?](https://github.com/zenepity/Kikr#-whats-kikr)
+ - [Commands](https://github.com/zenepity/Kikr#-commands)
+ - [Importing/Hosting](https://github.com/zenepity/Kikr#-importinghosting)
+   - [Importing Using Terminal](https://github.com/zenepity/Kikr#importing-using-terminal)
+    - [Importing Using Repl.it](https://github.com/zenepity/Kikr#importing-using-terminal)
+   - [Hosting Using Pingle](https://github.com/zenepity/Kikr#hosting-using-pingle)
+   - [Hosting Using Uptime Robot](https://github.com/zenepity/Kikr#hosting-using-uptime-robot)
+   - [Hosting Using Kikr](https://github.com/zenepity/Kikr#hosting-using-kikr)
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
 
 <h2>✨ Commands</h2>
 
- - ❓**Info**: `help`, `ping`, `covid19` *+  2 more...*
+ - ❓**Info**: `help`, `ping`, `covid19` *+  1 more...*
  - 🎢 **Fun**: `tweet`, `kanye`, `trigger`, `hug`, `kiss`, `kill` *+5 more...*
  
 <h2>📥 Importing/Hosting</h2>
