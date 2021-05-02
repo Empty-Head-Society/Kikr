@@ -44,7 +44,7 @@ Kikr is a Discord bot made to help you enhance your Discord server by giving you
 - Published ½ of source code to github folders
 - Added [Downloading Packages](https://github.com/zenepity/Kikr#downloading-packages) section.
 - Created `define` Command
-- 
+
 <h2>📥 Importing/Hosting</h2>
 
 Please note that:
