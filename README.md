@@ -28,7 +28,7 @@ If you can automate something, automate it.
    - [Hosting Using Pingle](https://github.com/zenepity/Kikr#hosting-using-pingle)
    - [Hosting Using Uptime Robot](https://github.com/zenepity/Kikr#hosting-using-uptime-robot)
    - [Hosting Using Kikr](https://github.com/zenepity/Kikr#hosting-using-kikr)
-- [Update Log](https://github.com/zenepity/Kikr/blob/main/README.md#-update-log)
+- [Update Log]
 
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
@@ -44,7 +44,7 @@ Kikr is a Discord bot made to help you enhance your Discord server by giving you
 - Published ½ of source code to github folders
 - Added [Downloading Packages](https://github.com/zenepity/Kikr#downloading-packages) section.
 - Created `define` Command
-
+- 
 <h2>📥 Importing/Hosting</h2>
 
 Please note that:
@@ -62,7 +62,7 @@ Please note that:
 2. Click "New Repl", then "Import From Github"
 3. Type: `zenepity/Kikr`
 
-### Downloading Packages
+#### Downloading Packages
 NPM packages should download automatically aslong as the package.json file looks like it does [here](https://github.com/zenepity/Kikr/blob/main/package.json). If the packages do not install automatically, run this command in your terminal to fix it.
 
 ````
@@ -97,3 +97,16 @@ Please note that:
 - Whenever Kikr has downtime your bot will have downtime as well.
 
 1. Type in a channel with Kikr in it: `k!add <your-url>` or `k!host <your-url>`
+
+<h2>⭐ Contributors/Credits</h2>
+
+- <img src="https://avatars.githubusercontent.com/u/74991335?s=48&v=4" width="28" align="center"> zenepity#1337
+- <img src="https://imgur.com/PnXeT4j.png" width="28" align="center"> [Dev-CasperTheGhost/ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot/tree/backup-js)
+- <img src="https://imgur.com/SCmgo9S.png" width="28" align="center"> [DeltaCoderr/KarmaBot](github.com/DeltaCoderr/KarmaBot)
+- <img src="https://imgur.com/gXPb4gA.png" width="28" align="center"> [zenepity/Honey](github.com/zenepity/Honey) (private)
+
+<h2>⚖️ License</h2>
+
+[zenepity/Kikr](https://github.com/zenepity/Kikr) is licensed under the Mozilla Public License 2.0.
+
+Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. However, a larger work using the licensed work may be distributed under different terms and without source code for files added in the larger work.
