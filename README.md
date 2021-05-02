@@ -28,7 +28,7 @@ If you can automate something, automate it.
    - [Hosting Using Pingle](https://github.com/zenepity/Kikr#hosting-using-pingle)
    - [Hosting Using Uptime Robot](https://github.com/zenepity/Kikr#hosting-using-uptime-robot)
    - [Hosting Using Kikr](https://github.com/zenepity/Kikr#hosting-using-kikr)
-- [Update Log]
+- [Update Log](https://github.com/zenepity/Kikr/blob/main/README.md#-update-log)
 
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
