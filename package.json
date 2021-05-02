@@ -1,0 +1,55 @@
+{
+  "name": "kikr",
+  "description": "🚇 Discord bot written in Javascript with more than 15+ commands under the categories of: Fun, Info.",
+  "version": "1.0.0-ALPHA",
+  "keywords": [
+    "djs",
+    "discord-js",
+    "discord",
+    "javascript",
+    "js",
+    "dyno",
+    "mee6"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "contributors": [
+    {
+      "name": "Zenepity",
+      "email": "zenepity@gmx.us",
+      "web": "zenepity.ml"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/zenepity/Kikr.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MLP-2.0",
+      "url": "https://www.mozilla.org/en-US/MPL/2.0/"
+    }
+  ],
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "discord-image-generation": "^1.4.9",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "easy-games-js": "^1.2.1",
+    "express": "~4.16.1",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.0",
+    "prettier": "^2.2.1",
+    "superagent": "^6.1.0",
+    "word-definition": "^2.1.6"
+  }
+}
