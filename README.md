@@ -1,4 +1,5 @@
 
+
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Bot 12" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
 
 
@@ -22,9 +23,11 @@ If you can automate something, automate it.
  - [Importing/Hosting](https://github.com/zenepity/Kikr#-importinghosting)
    - [Importing Using Terminal](https://github.com/zenepity/Kikr#importing-using-terminal)
     - [Importing Using Repl.it](https://github.com/zenepity/Kikr#importing-using-terminal)
+    - [Downloading Packages]()
    - [Hosting Using Pingle](https://github.com/zenepity/Kikr#hosting-using-pingle)
    - [Hosting Using Uptime Robot](https://github.com/zenepity/Kikr#hosting-using-uptime-robot)
    - [Hosting Using Kikr](https://github.com/zenepity/Kikr#hosting-using-kikr)
+- [Update Log]()
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
 
@@ -49,6 +52,13 @@ Please note that:
 1. Go to [repl.it](replit.com/~)
 2. Click "New Repl", then "Import From Github"
 3. Type: `zenepity/Kikr`
+
+### Downloading Packages
+NPM packages should download automatically aslong as the package.json file looks like it does [here](https://github.com/zenepity/Kikr/blob/main/package.json). If the packages do not install automatically, run this command in your terminal to fix it.
+
+````
+npm i discord.js express fs ascii-table discord-image-generation discord.js-pagination easy-games-js node-fetch novelcovid prettier superagent word-definition`
+````
 
 #### Hosting using [Pingle](repl.pingle.ml)
 Please note that:
