@@ -1,5 +1,6 @@
 
 
+
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Bot 12" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
 
 
@@ -37,6 +38,13 @@ Kikr is a Discord bot made to help you enhance your Discord server by giving you
  - ❓ **Info**: `help`, `ping`, `covid19` *+  1 more...*
  - 🎢 **Fun**: `tweet`, `kanye`, `trigger`, `hug`, `kiss`, `kill` *+5 more...*
  
+ <h2>📜 Update Log</h2>
+
+#### v1.0.0
+- Published ½ of source code to github folders
+- Added [Downloading Packages](https://github.com/zenepity/Kikr#downloading-packages) section.
+- Created `define` Command
+
 <h2>📥 Importing/Hosting</h2>
 
 Please note that:
