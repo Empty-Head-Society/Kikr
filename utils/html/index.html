@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+  
+<meta name="theme-color" content="#029ad5">
+<meta name="title" content="Kikr">
+<meta name="description" content="🚇 Discord bot written in Javascript with more than 15+ commands under the categories of: Fun, Info.">
+<meta name="keywords" content="djs, express, discord.js, discord bot, fuck you">
+
+<title>Kikr Bot For Discord</title>
+<link rel="apple-touch-icon" href="https://i.imgur.com/RApzXvZ.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://i.imgur.com/RApzXvZ.png">
+<link rel="shortcut icon" href="https://i.imgur.com/RApzXvZ.png">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<meta property="og:title" content="Kikr - Bot For Discord"/>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://kikr.gq" />
+<meta property="og:image" content="https://i.imgur.com/RApzXvZ.png" />
+<meta property="og:description" content="🚇 Discord bot written in Javascript with more than 15+ commands under the categories of: Fun, Info."/>
+<meta property="og:color" content="#029ad5" />
+
+<link rel="stylesheet" href="/style.css" />
+<script src="/script.js" defer></script>
+
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+<!-- Chatra {literal} -->
+<script>
+    (function(d, w, c) {
+        w.ChatraID = 'C5wm3thWiixZSxZPd';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script>
+<!-- /Chatra {/literal} -->
+</head>
+<body>
+
+<nav class="nav-bar">
+<div class="nav-bar-img">
+<img src="https://i.imgur.com/RApzXvZ.png" alt="Kikr">
+<h1><b>Kikr</b></h1>
+</div>
+<div class="nav-bar-toggle">
+<span class="bar"></span>
+<span class="bar"></span>
+<span class="bar"></span>
+</div>
+<div class="nav-bar-links">
+<ul>
+<a href="/">HOME⠀</a>
+<a href="https://commands.mai-san.ml">COMMANDS⠀</a>
+<a href="https://discord.com/oauth2/authorize?client_id=829853706508959824&permissions=2113268983&scope=bot%20applications.commands">INVITE</a>
+</ul>
+</div>
+</nav>
+
+<script>
+  const Discord = require('discord.js')
+  const client = new Discord.Client()
+
+  function functionOne() {
+     client.user.setActivity('Test')
+
+     if (err) {
+       console.log('oops')
+     }
+  }
+</script>
+<style>
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #0b0e11;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #11151a;
+  color: white;
+  padding: 1% 2%;
+  font-family: "Inter", sans-serif;
+}
+
+.nav-bar img {
+  display: block;
+  height: auto;
+  width: 100%;
+  border-radius: 50%;
+}
+
+.nav-bar-img {
+  display: flex;
+  margin: auto;
+  margin-left: 15px;
+  width: 50px;
+  height: 50px;
+}
+
+.nav-bar-img h1 {
+  margin: auto;
+  padding-left: 0.75rem;
+}
+
+.nav-bar-links ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-bar-links a {
+  padding: 1rem;
+  display: block;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  transform: translateY(0);
+  font-weight: 600;
+  color: #eef1f5;
+  text-decoration: none;
+}
+
+.nav-bar-links a:hover {
+  color: #029ad5;
+   transform: translateY(-2px);
+   transition: all 0.5s ease-in-out;
+}
+.nav-bar-toggle {
+  position: absolute;
+  cursor: pointer;
+  top: 1.25rem;
+  right: 1.25rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+}
+
+.nav-bar-toggle .bar {
+  height: 3px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+}
+  </style>
+</body>
+</html>
