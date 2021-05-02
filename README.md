@@ -23,11 +23,12 @@ If you can automate something, automate it.
  - [Importing/Hosting](https://github.com/zenepity/Kikr#-importinghosting)
    - [Importing Using Terminal](https://github.com/zenepity/Kikr#importing-using-terminal)
     - [Importing Using Repl.it](https://github.com/zenepity/Kikr#importing-using-terminal)
-    - [Downloading Packages]()
+    - [Downloading Packages](https://github.com/zenepity/Kikr#downloading-packages)
    - [Hosting Using Pingle](https://github.com/zenepity/Kikr#hosting-using-pingle)
    - [Hosting Using Uptime Robot](https://github.com/zenepity/Kikr#hosting-using-uptime-robot)
    - [Hosting Using Kikr](https://github.com/zenepity/Kikr#hosting-using-kikr)
-- [Update Log]()
+- [Update Log]
+
 <h2>🤔 What's Kikr?</h2>
 Kikr is a Discord bot made to help you enhance your Discord server by giving you many features like: logs, memes, etc.
 
