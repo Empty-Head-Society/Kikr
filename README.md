@@ -30,7 +30,7 @@ Kikr is a Discord bot made to help you enhance your Discord server by giving you
 
 <h2>✨ Commands</h2>
 
- - ❓**Info**: `help`, `ping`, `covid19` *+  1 more...*
+ - ❓ **Info**: `help`, `ping`, `covid19` *+  1 more...*
  - 🎢 **Fun**: `tweet`, `kanye`, `trigger`, `hug`, `kiss`, `kill` *+5 more...*
  
 <h2>📥 Importing/Hosting</h2>
