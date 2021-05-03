@@ -8,7 +8,7 @@
 
 If you can automate something, automate it.
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1.2-blue.svg?style=for-the-badge" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge" />
     <img alt="License" src="https://img.shields.io/github/license/Zenepity/kikr?style=for-the-badge" />
 </p>
 <h1 align="center">
