@@ -8,8 +8,9 @@
 
 If you can automate something, automate it.
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?style=for-the-badge" />
     <img alt="License" src="https://img.shields.io/github/license/Zenepity/kikr?style=for-the-badge" />
+      <img alt="Commit" src="https://img.shields.io/github/last-commit/zenepity/kikr?style=for-the-badge" />
 </p>
 <h1 align="center">
 <a href="https://discord.com/oauth2/authorize?client_id=837781330019483718&permissions=2113399895&scope=bot%20applications.commands">
