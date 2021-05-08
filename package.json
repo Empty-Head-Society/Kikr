@@ -1,7 +1,7 @@
 {
   "name": "kikr",
   "description": "🚇 Discord bot written in Javascript with more than 15+ commands under the categories of: Fun, Info.",
-  "version": "1.0.0-ALPHA",
+  "version": "1.0.1",
   "keywords": [
     "djs",
     "discord-js",
@@ -34,22 +34,39 @@
     }
   ],
   "dependencies": {
+    "afk-cord": "^1.0.2",
     "ascii-table": "0.0.9",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "discord-image-generation": "^1.4.9",
+    "discord-minigames": "^1.2.2",
+    "discord-nsfw": "^1.3.0",
+    "discord-reply": "^0.1.2",
+    "discord-together": "^1.0.19",
     "discord.js": "^12.5.3",
     "discord.js-pagination": "^1.0.3",
     "easy-games-js": "^1.2.1",
     "express": "~4.16.1",
     "fs": "0.0.1-security",
+    "hastebin-gen": "^2.0.5",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "node-fetch": "^2.6.1",
+    "node-gyp": "^8.0.0",
     "novelcovid": "^3.0.0",
     "prettier": "^2.2.1",
+    "python": "0.0.4",
+    "signale": "^1.4.0",
     "superagent": "^6.1.0",
-    "word-definition": "^2.1.6"
-  }
+    "tech-tip-cyber": "^1.1.8",
+    "wio.db": "^4.0.20",
+    "word-definition": "^2.1.6",
+    "yarn": "^1.22.10"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/zenepity/Kikr",
+  "author": "@zenepity",
+  "license": "MLP-2.0",
+  "private": false
 }
