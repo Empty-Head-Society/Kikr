@@ -1,13 +1,30 @@
-const Discord = require('discord.js');
-const client = new Discord.Client();
+// Packages
+const Discord = require('discord.js')
+require('discord-reply')
+const fs = require('fs')
+const { Signale } = require('signale')
+const { DiscordTogether } = require('discord-together')
+const { chatBot } = require('tech-tip-cyber');
+
+// Variables
+const client = new Discord.Client({
+  disableEveryone: true,
+  presence: {
+    status: "idle",
+  }
+})
 
 require('./utils/express.js')
 
-const { token, prefix } = require('./configs/config.json')
+const signale = new Signale()
+const { token, prefix } = require('./configs/config.json');
+
+client.discordTogether = new DiscordTogether(client, {
+    token: token
+});
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-  client.user.setStatus('idle');
+  signale.success('Logged in as ' + client.user.tag + '!');
 });
 
 client.commands = new Discord.Collection();
@@ -32,8 +49,15 @@ client.on("message", async message => {
     if (!command) command = client.commands.get(client.aliases.get(cmd));
 
     if (command) 
-        command.run(client, message, args);
+        command.run(client, message, args)
+})
+
+client.on("message", async message => {
+  if(message.channel.id === '840463126125871134') {
+    if(message.author.bot) return;
+        const reply = await chatBot({ Message: message });
+        message.lineReply(`${reply}`)
+  }
 });
 
-
-client.login(token);
+client.login(token).catch(console.error);
