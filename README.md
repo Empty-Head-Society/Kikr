@@ -1,6 +1,7 @@
 
 
 
+
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Bot 12" src="https://imgur.com/LyjfBHy.png?maxwidth=760&fidelity=grand">  
 
 
@@ -8,10 +9,13 @@
 
 If you can automate something, automate it.
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?style=for-the-badge" />
-    <img alt="License" src="https://img.shields.io/github/license/Zenepity/kikr?style=for-the-badge" />
-      <img alt="Commit" src="https://img.shields.io/github/last-commit/zenepity/kikr?style=for-the-badge" />
+  <img alt="Version" src="https://img.shields.io/github/package-json/v/zenepity/kikr?color=f3b616&style=for-the-badge" />
+    <img alt="License" src="https://img.shields.io/github/license/zenepity/Kikr?color=%23029ad5&style=for-the-badge" />
+      <img alt="Commit" src="https://img.shields.io/github/last-commit/zenepity/Kikr?color=%23f3b616&style=for-the-badge" />
 </p>
+<a href="https://discord.gg/FSwVhvRryU">
+		<img alt="Discord" src="https://img.shields.io/discord/837836713811771402?color=%23029ad5&label=Discord&logo=discord&logoColor=%23029ad5&style=for-the-badge" />
+		</a>
 <h1 align="center">
 <a href="https://discord.com/oauth2/authorize?client_id=837781330019483718&permissions=2113399895&scope=bot%20applications.commands">
 </a>
